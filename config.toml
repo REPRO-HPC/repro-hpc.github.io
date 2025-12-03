@@ -1,4 +1,4 @@
-base_url = "https://spr-hpc.github.io/"
+base_url = "https://repro-hpc.github.io/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
@@ -11,7 +11,7 @@ smart_punctuation = true
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
-title = {title = "SPR-HPC", subtitles = ["Workshop in Sustainable Practices for Reproducibility in HPC", "hosted at ISC26"]}
+title = {title = "REPRO-HPC", subtitles = ["Workshop in Sustainable Practices for Reproducibility in HPC", "hosted at ISC26"]}
 # banner = {extension = "jpg", size = "fixed", fade = true}
 banner = {extension = "jpg", size = "cover", fade = true}
 buttons = [{name="Home", url = "/"},{name = "Call for Contributions", url = "/call4contributions"}, {name="Program", url="/program"}, {name="Committee",url="/organizers"}]
