@@ -9,17 +9,17 @@ This is a program tentative and is subject to modification.
 
 **Friday June 26th 2026**:
 
-| Time (CET)    | Event                        |
-| ------------- | ---------------------------- |
-| 09:00         | Welcome and Introductions    |
-| 09:00 - 10:00 | Invited Talk                 |
-| 10:00 - 10:15 | Contributed Talk #1          |
-| 10:15 - 10:30 | Contributed Talk #2          |
-| 10:30 - 10:45 | Contributed Talk #3          |
-| 10:45 - 11:00 | Contributed Talk #4          |
-| 11:00 - 11:30 | *ISC Coffee Break*           |
-| 11:30 - 12:30 | Invited Talk                 |
-| 12:30 - 13:00 | Panel (with the Presenters?) |
+| Time (CET)    | Event                     |
+| ------------- | ------------------------- |
+| 09:00 - 09:10 | Welcome and Introductions |
+| 09:10 - 09:50 | Invited Talk #1           |
+| 09:50 - 10:05 | Contributed Talk #1       |
+| 10:05 - 10:20 | Contributed Talk #2       |
+| 10:20 - 11:00 | Invited Talk #2           |
+| 11:00 - 11:30 | *ISC Coffee Break*        |
+| 11:30 - 11:45 | Contributed Talk #3       |
+| 11:45 - 12:00 | Contributed Talk #4       |
+| 12:00 - 13:00 | Panel Discussion          | 
 
 {{ new_block() }}
 

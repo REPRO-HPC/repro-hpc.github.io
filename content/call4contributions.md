@@ -4,26 +4,39 @@ title = "Call for Contributions"
 
 # Call for Contributions
 
-{{ new_block() }}
 
 ## Topic of Interests
 
-- Feedbacks/Lessons learned/Success stories from artifacts authors, reviewers, chairs, trying to package an experiment or trying to reproduce an experiment
-- Methods to create a "minimal reproducible experiment" to proxy the reproduction on the energy consumming full-scale version
+The topics of interest of the workshop include, but are not limited to, the following:
+
+### General
+
+- Feedback/Lessons learned/Success stories from artifact authors, reviewers, and chairs, trying to package an experiment or trying to reproduce an experiment
+- Methods to create a "minimal reproducible experiment" to proxy the reproduction on the energy consuming full-scale version
 - Energy-efficient artifact reproduction in HPC
 - Case studies of sustainable (or unsustainable) artifact evaluation in HPC
-- Long-term reproduciblity: ensuring artifacts remain accessible and evaluable as hardware/software evolves
+- Long-term reproducibility: ensuring artifacts remain accessible and evaluable as hardware/software evolves
 - Feedback from teaching HPC reproducibility principles
-- Methods and tools to create a standalone and portable experiment
-- Methods and tools to support reproducibility in HPC from the early development stages
+- Reproducibility in the age of AI: concerns and opportunities
+ 
+### Software Environment / Workflow / CI/CD
+
+- Methods and tools to create a standalone and portable experiments (package managers, containers,...)
+- Methods and tools to support reproducibility in HPC from the early development stages (CI/CD, provenance, SBOM, ...)
 - Methods and tools to support FAIR principles
-- Methods and tools to support provenance
+ 
+### Platforms (HPC Centers and Testbeds)
+
 - Tools and services that should be offered by HPC centers and testbeds to improve/support reproducibility
 - Billing, access, and "security" to HPC centers and testbeds for reproduction attempts
-- Proposals for new Artifact Evaluations processes (timelines, badges, reports, interactions between authors and reviewers, reviewer roles, etc.)
+ 
+### Artifact Evaluation Process
+
+- Proposals for new Artifact Evaluation processes (timelines, badges, reports, interactions between authors and reviewers, reviewer roles, etc.)
 - Incentives and recognition for Reproducibility in HPC (for authors and reviewers)
-- Human-centric sustainability: reducing reviewer/author fatigue and chair workload.
+- Human-centric sustainability: reducing reviewer/author fatigue and chair workload
 - Community standards for balancing rigor, efficiency, and human effort
+- "Proper" evaluation of proprietary software/hardware
 
 
 {{ new_block() }}
@@ -46,7 +59,7 @@ title = "Call for Contributions"
 
 All accepted contribution will be presented in 10-12 minutes, followed by discussions.
 
-All the slides will also be uploaded on HAL, unles explicit opt-out of the authors.
+All the slides will also be uploaded on HAL, unless explicit opt-out of the authors.
 
 {{ new_block() }}
 
