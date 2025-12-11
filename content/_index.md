@@ -46,16 +46,16 @@ The topics of interest of the workshop include, but are not limited to, the foll
 - Community standards for balancing rigor, efficiency, and human effort
 - "Proper" evaluation of proprietary software/hardware
 
-
 {{ new_block() }}
+
 
 
 # Invited Speakers
 
 {{ grid(
     text = [
-        ["Speaker A","Institution A"], 
-        ["Speaker B","Institution B"],
+        ["Speaker A","Institution A", "Title A"], 
+        ["Speaker B","Institution B", "Title B"],
     ],
     urls = [
         "https://aterenin.github.io/academic-workshop#speaker_a",
@@ -70,35 +70,75 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ new_block() }}
 
-# Program at Glance
+# Program
 
-| Time (CET)    | Event                     |
-| ------------- | ------------------------- |
-| 09:00 - 09:10 | Welcome and Introductions |
-| 09:10 - 09:50 | Invited Talk #1           |
-| 09:50 - 10:05 | Contributed Talk #1       |
-| 10:05 - 10:20 | Contributed Talk #2       |
-| 10:20 - 11:00 | Invited Talk #2           |
-| 11:00 - 11:30 | *ISC Coffee Break*        |
-| 11:30 - 11:45 | Contributed Talk #3       |
-| 11:45 - 12:00 | Contributed Talk #4       |
-| 12:00 - 13:00 | Panel Discussion          | 
+**Friday June 26th 2026**:
 
-[more details](/program)
+| Time (CET)    | Event                             |
+| ------------- | --------------------------------- |
+| 09:00 - 09:10 | Welcome and Introductions         |
+| 09:10 - 09:50 | Invited Talk #1 ([slides](/))     |
+| 09:50 - 10:05 | Contributed Talk #1 ([slides](/)) |
+| 10:05 - 10:20 | Contributed Talk #2 ([slides](/)) |
+| 10:20 - 11:00 | Invited Talk #2 ([slides](/))     |
+| 11:00 - 11:30 | *ISC Coffee Break*                |
+| 11:30 - 11:45 | Contributed Talk #3 ([slides](/)) |
+| 11:45 - 12:00 | Contributed Talk #4 ([slides](/)) |
+| 12:00 - 13:00 | Panel Discussion                  |
 
+{{ new_block() }}
+
+# Call for Contributions
+
+## Submission Format
+
+- Submissions should be long abstract up to *2 pages single column* excluding references, in the PDF format
+
+- Submissions are not anonymized, and must be sent by email at [first.last@email.com](mailto:first.last@email.com) with "`[repro-hpc]`" in the subject.
+
+- Accepted submissions will not appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
+
+- Authors must clearly state any use of generative AI tools (text, figures, data)
+
+- Accepted submission will have a 15-minute timeslot including presentation and Q&A.
 
 {{ new_block() }}
 
+## Important Dates
 
-# Accepted Contributions
+- Call for Contributed Talks open: **March 2nd 2026**
 
-{{ table(
-    data = "papers.csv", 
-    columns = ["Title","Authors"],
-    button_names = ["abstract","slides"], 
-    button_data_columns = [3,4], 
-    button_output_columns = [1,1]) }}
+- Submissions due: **April 10th 2026** (AOE)
 
+- Notifications sent: **April 24th 2026**
 
+- Program finalized: **May 26th 2026**
+
+- Workshop Date: **June 26th 2026** 
 
 {{ new_block() }}
+
+# Committees
+
+## Organizing Committee
+
+{{ grid(
+    text = [
+        ["Quentin Guilloteau", "INRIA", "Web Chair"],
+        ["Valérie Hayot-Sasson", "ETS Montréal", "Publicity Chair"],
+        ["Dennis Hoppe", "HLRS"],
+        ["Josef Weidendorfer", "LRZ", "Program Chair"],
+    ],
+    urls = [
+        "https://guilloteauq.github.io",
+        "https://www.etsmtl.ca/en/study-at-ets/professors/vhayot-sasson",
+        "https://www.hlrs.de/people/dennis-hoppe",
+        "https://www.ce.cit.tum.de/caps/mitarbeiter/josef-weidendorfer/",
+    ],
+    image_dir = "organizers") }}
+
+{{ new_block() }}
+
+## Abstract Reviewing Committee
+
+TBD
