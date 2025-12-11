@@ -11,7 +11,7 @@ smart_punctuation = true
 
 [extra]
 footer_text = "This website is built using [Zola](https://www.getzola.org) and the [Academic Workshop](http://github.com/aterenin/academic-workshop/) theme, which is [designed to last](https://jeffhuang.com/designed_to_last/)."
-title = {title = "REPRO-HPC", subtitles = ["1ˢᵗ Workshop in Sustainable Practices for Reproducibility in HPC", "hosted at ISC26 - 26th June 2026"]}
+title = {title = "REPRO-HPC", subtitles = ["1ˢᵗ Workshop in Sustainable Practices for Reproducibility in HPC", "hosted at ISC26 - June 26th 2026"]}
 # banner = {extension = "jpg", size = "fixed", fade = true}
 banner = {extension = "jpg", size = "cover", fade = true}
 buttons = [{name="Home", url = "/"},{name = "Call for Contributions", url = "#call-for-contributions"}, {name="Program", url="#program"}, {name="Committees",url="#committees"}]
