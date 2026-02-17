@@ -92,13 +92,11 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 ## Submission Format
 
-- Submissions should be long abstract up to *2 pages single column* excluding references, in the PDF format
+- Submissions should be either a **2-page abstract** or a **4-page short paper**, excluding references, in the PDF format
 
 - Submissions are not anonymized, and must be sent by email at [first.last@email.com](mailto:first.last@email.com) with "`[repro-hpc]`" in the subject.
 
-- Accepted submissions will not appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
-
-- Authors must clearly state any use of generative AI tools (text, figures, data)
+- Accepted submissions will **not** appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
 
 - Accepted submission will have a 15-minute timeslot including presentation and Q&A.
 
@@ -108,9 +106,9 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 - Call for Contributed Talks open: **March 2nd 2026**
 
-- Submissions due: **April 10th 2026** (AOE)
+- Submissions due: **April 17th 2026** (AOE)
 
-- Notifications sent: **April 24th 2026**
+- Notifications sent: **May 8th 2026**
 
 - Program finalized: **May 26th 2026**
 
