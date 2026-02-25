@@ -54,12 +54,12 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ grid(
     text = [
-        ["Speaker A","Institution A", "Title A"], 
-        ["Speaker B","Institution B", "Title B"],
+        ["Kate Keahey","University of Chicago / Chameleon Cloud", "Title TBA"], 
+        ["Helena Vela Beltran","Do IT Now / EESSI", "Title TBA"],
     ],
     urls = [
-        "https://aterenin.github.io/academic-workshop#speaker_a",
-        "https://aterenin.github.io/academic-workshop#speaker_b",
+    	"https://www.mcs.anl.gov/~keahey/",
+	"https://www.linkedin.com/in/torri1"
     ],
     images = [
         "placeholder.svg",
@@ -70,7 +70,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ new_block() }}
 
-# Program
+# Program -- Tentative
 
 **Friday June 26th 2026**:
 
@@ -86,6 +86,14 @@ The topics of interest of the workshop include, but are not limited to, the foll
 | 11:45 - 12:00 | Contributed Talk #4 ([slides](/)) |
 | 12:00 - 13:00 | Panel Discussion                  |
 
+## Panelists
+
+- [Kate Keahey](https://www.mcs.anl.gov/~keahey/) ([Chameleon Cloud](https://www.chameleoncloud.org/))
+- [Helena Vela Beltran](https://www.linkedin.com/in/torri1) ([EESSI](https://www.eessi.io/))
+- [Hatem Ltaief](https://cemse.kaust.edu.sa/profiles/hatem-ltaief) (ISC26 Research Paper Chair) 
+- TBA
+- TBA
+
 {{ new_block() }}
 
 # Call for Contributions
@@ -94,11 +102,11 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 - Submissions should be either a **2-page abstract** or a **4-page short paper**, excluding references, in the PDF format
 
-- Submissions are not anonymized, and must be sent by email at [first.last@email.com](mailto:first.last@email.com) with "`[repro-hpc]`" in the subject.
-
 - Accepted submissions will **not** appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
 
 - Accepted submission will have a 15-minute timeslot including presentation and Q&A.
+
+- Submission website TBA
 
 {{ new_block() }}
 
