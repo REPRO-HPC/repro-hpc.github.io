@@ -103,7 +103,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 - Accepted submission will have a 15-minute timeslot including presentation and Q&A.
 
-- Submission website TBA
+- Submission website: [https://easychair.org/conferences/?conf=reprohpc26](https://easychair.org/conferences/?conf=reprohpc26)
 
 {{ new_block() }}
 
