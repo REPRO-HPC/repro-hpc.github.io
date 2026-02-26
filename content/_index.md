@@ -54,17 +54,14 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ grid(
     text = [
-        ["Kate Keahey","University of Chicago / Chameleon Cloud", "Title TBA"], 
-        ["Helena Vela Beltran","Do IT Now / EESSI", "Title TBA"],
+        ["Kate Keahey","University of Chicago", "Title TBA"], 
+        ["Helena Vela Beltran","Do IT Now", "Title TBA"],
     ],
     urls = [
-    	"https://www.mcs.anl.gov/~keahey/",
-	"https://www.linkedin.com/in/torri1"
+        "https://www.mcs.anl.gov/~keahey/",
+        "https://www.linkedin.com/in/torri1"
     ],
-    images = [
-        "placeholder.svg",
-        "placeholder.svg",
-    ],
+    image_dir = "speakers",
     narrow = false) }}
 
 
