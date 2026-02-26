@@ -140,6 +140,9 @@ The topics of interest of the workshop include, but are not limited to, the foll
     ],
     image_dir = "organizers") }}
 
+
+For any questions, please reach us at : [repro-hpc@groupes.renater.fr](mailto:repro-hpc@groupes.renater.fr)
+
 {{ new_block() }}
 
 ## Abstract Reviewing Committee
