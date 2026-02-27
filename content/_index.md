@@ -54,7 +54,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ grid(
     text = [
-        ["Kate Keahey","University of Chicago", "Title TBA"], 
+        ["Kate Keahey","ANL / UChicago", "Title TBA"], 
         ["Helena Vela Beltran","Do IT Now", "Title TBA"],
     ],
     urls = [
