@@ -67,7 +67,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ new_block() }}
 
-# Program -- Tentative
+# Program
 
 **Friday June 26th 2026**:
 
@@ -148,3 +148,8 @@ For any questions, please reach us at : [repro-hpc@groupes.renater.fr](mailto:re
 ## Abstract Reviewing Committee
 
 TBD
+
+
+{{ new_block() }}
+
+![](ISC_logo.png)
