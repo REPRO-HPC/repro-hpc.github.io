@@ -130,7 +130,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
         ["Quentin Guilloteau", "INRIA", "Web Chair"],
         ["Valérie Hayot-Sasson", "ETS Montréal", "Publicity Chair"],
         ["Dennis Hoppe", "HLRS"],
-        ["Josef Weidendorfer", "LRZ / TUM", "Program Chair"],
+        ["Josef Weidendorfer", "TU Dresden", "Program Chair"],
     ],
     urls = [
         "https://guilloteauq.github.io",
