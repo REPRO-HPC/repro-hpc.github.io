@@ -97,7 +97,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 ## Submission Format
 
-- Submissions should be either a **2-page abstract** or a **4-page short paper**, excluding references, in the PDF format
+- Submissions should be either a **2-page abstract** or a **4-page short paper**, excluding references, in the PDF format using the [IEEE double column template](https://www.ieee.org/conferences/publishing/templates)
 
 - Accepted submissions will **not** appear in the ISC26's proceedings, but will be published, alongside the presented slides, on the workshop's webpage, unless explicit opt-out from the authors.
 
