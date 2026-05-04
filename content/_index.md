@@ -111,7 +111,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 - Call for Contributed Talks open: **March 2nd 2026**
 
-- Submissions due: ~~April 17th 2026~~ **May 1st 2026** (AOE)
+- Submissions due: ~~April 17th 2026~~ ~~May 1st 2026 (AOE)~~ **May 6th 2026 (EoB)** (final extension)
 
 - Notifications sent: ~~May 8th 2026~~ **May 15th 2026**
 
