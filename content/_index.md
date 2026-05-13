@@ -147,7 +147,18 @@ For any questions, please reach us at : [repro-hpc@groupes.renater.fr](mailto:re
 
 ## Abstract Reviewing Committee
 
-TBD
+- André Bauer, Illinois Institute of Technology
+- Insaf Benlamari, Leibniz Supercomputing Center
+- Raphaël Bleuse, Univ. Grenoble Alpes
+- Tainā Coleman, San Diego Supercomputer Center
+- Ludovic Courtès, INRIA
+- Abdullatif  Eymash, HLRS
+- Maxime Gonthier, INRIA
+- Samuel Grayson, University of Illinois at Urbana-Champaign
+- Arjun Parab, Leibniz Supercomputing Centre
+- Millian Poquet, Univ. Toulouse III
+- Bruno Raffin, INRIA
+- Amir Raoofy, Leibniz Supercomputing Centre
 
 
 {{ new_block() }}
