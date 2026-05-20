@@ -113,9 +113,11 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 - Submissions due: ~~April 17th 2026~~ ~~May 1st 2026 (AOE)~~ **May 6th 2026 (EoB)** (final extension)
 
-- Notifications sent: ~~May 8th 2026~~ **May 15th 2026**
+- Notifications sent: ~~May 8th 2026~~ **May 20th 2026**
 
 - Program finalized: **May 26th 2026**
+
+- Camera Ready version due: **June 3rd 2026**
 
 - Workshop Date: **June 26th 2026** 
 
