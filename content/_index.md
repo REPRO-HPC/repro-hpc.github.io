@@ -71,17 +71,23 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 **Friday June 26th 2026**:
 
+<div class="program-table">
+
 | Time (CET)    | Event                             |
 | ------------- | --------------------------------- |
-| 09:00 - 09:10 | Welcome and Introductions         |
-| 09:10 - 09:50 | Invited Talk #1 ([slides](/))     |
-| 09:50 - 10:05 | Contributed Talk #1 ([slides](/)) |
-| 10:05 - 10:20 | Contributed Talk #2 ([slides](/)) |
-| 10:20 - 11:00 | Invited Talk #2 ([slides](/))     |
-| 11:00 - 11:30 | *ISC Coffee Break*                |
-| 11:30 - 11:45 | Contributed Talk #3 ([slides](/)) |
-| 11:45 - 12:00 | Contributed Talk #4 ([slides](/)) |
-| 12:00 - 13:00 | Panel Discussion                  |
+| 09:00 - 09:05 | Welcome and Introductions         |
+| 09:05 - 09:40 | Invited Talk : **Kate Keahey**      |
+| 09:40 - 09:55 | *"Portable Reproducibility for NextGen Water Modeling Using Containerized HPC and Cloud Workflows"* <br>-- M. K. H. Chowdhury, H. T. Jajula, T. Patel, A. Patel, P. Bangalore |
+| 09:55 - 10:10 | *"Layered Reproducibility for High-Performance Computing Applications: The Feel++ and Ktirio Urban Buildings Case Study"* <br>-- J. Cladella, V. Chabannes, C. Prud'homme|
+| 10:10 - 10:25 | *"iReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems"* <br>-- I. Benlamari |
+| 10:25 - 11:00 | Invited Talk : **Helana Vela Beltran**      |
+| 11:00 - 11:30 | **ISC Coffee Break**              |
+| 11:30 - 11:45 | *"Nix to the Rescue for a Reproducible HPC-AI Software Stack"* <br>-- W. Du, J-M. Gratien, R. Gayno, B. Raffin|
+| 11:45 - 12:00 | *"Some Lessons learnt on FPM promises with NixOS-Compose"* <br>-- A. Salmane, Y. Sun, H. Brunie, O. Richard|
+| 12:00 - 12:15 | *"Standardising HPC Workflows for Sustainable Reproducibility: The JUBE Configuration Artefact Approach"* <br>-- J-O Mirus, F. S. M. Guimaraes, A. Sankaran, M. G. Barrios Sazo, C. Himmels, T. Breuer |
+| 12:15 - 13:00 | **Panel Discussion**                  |
+
+</div>
 
 ## Panelists
 
@@ -90,6 +96,18 @@ The topics of interest of the workshop include, but are not limited to, the foll
 - [Hatem Ltaief](https://cemse.kaust.edu.sa/profiles/hatem-ltaief) (ISC26 Research Paper Chair) 
 - TBA
 - TBA
+
+{{ new_block() }}
+
+# Accepted Talks
+
+{{ table(
+    data = "papers.csv", 
+    columns = ["Title","Authors"],
+    button_names = ["Paper","Slides"], 
+    button_data_columns = [3,4], 
+    button_output_columns = [1,1]) }}
+
 
 {{ new_block() }}
 

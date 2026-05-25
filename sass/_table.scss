@@ -21,6 +21,10 @@ tbody, td, tfoot, th, thead, tr {
     border-width: 0;
 }
 
+.program-table table th:nth-of-type(2) {
+    width: 80%;
+}
+
 table > :not(caption) > * > * {
     padding: 0.25rem 0.25rem;
     border-bottom-width: 1px;

@@ -14,7 +14,7 @@ footer_text = "This website is built using [Zola](https://www.getzola.org) and t
 title = {title = "REPRO-HPC", subtitles = ["1ˢᵗ Workshop in Sustainable Practices for Reproducibility in HPC", "hosted at ISC26 - June 26th 2026"]}
 # banner = {extension = "jpg", size = "fixed", fade = true}
 banner = {extension = "jpg", size = "cover", fade = true}
-buttons = [{name="Home", url = "/"},{name = "Call for Contributions", url = "#call-for-contributions"}, {name="Program", url="#program"}, {name="Committees",url="#committees"}]
+buttons = [{name="Home", url = "/"},{name = "Call for Contributions", url = "#call-for-contributions"}, {name="Program", url="#program"}, {name="Accepted Talks",url="#accepted-talks"},{name="Committees",url="#committees"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"}]
