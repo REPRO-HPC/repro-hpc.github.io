@@ -80,7 +80,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 | 09:40 - 09:55 | *"Portable Reproducibility for NextGen Water Modeling Using Containerized HPC and Cloud Workflows"* <br>-- M. K. H. Chowdhury, H. T. Jajula, T. Patel, A. Patel, P. Bangalore |
 | 09:55 - 10:10 | *"Layered Reproducibility for High-Performance Computing Applications: The Feel++ and Ktirio Urban Buildings Case Study"* <br>-- J. Cladella, V. Chabannes, C. Prud'homme|
 | 10:10 - 10:25 | *"iReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems"* <br>-- I. Benlamari |
-| 10:25 - 11:00 | Invited Talk : **Helana Vela Beltran**      |
+| 10:25 - 11:00 | Invited Talk : **Helena Vela Beltran**      |
 | 11:00 - 11:30 | **ISC Coffee Break**              |
 | 11:30 - 11:45 | *"Nix to the Rescue for a Reproducible HPC-AI Software Stack"* <br>-- W. Du, J-M. Gratien, R. Gayno, B. Raffin|
 | 11:45 - 12:00 | *"Some Lessons learnt on FPM promises with NixOS-Compose"* <br>-- A. Salmane, Y. Sun, H. Brunie, O. Richard|
