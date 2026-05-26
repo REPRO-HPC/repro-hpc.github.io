@@ -55,7 +55,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 {{ grid(
     text = [
         ["Kate Keahey","ANL / UChicago", "Title TBA"], 
-        ["Helena Vela Beltran","Do IT Now", "Title TBA"],
+        ["Helena Vela Beltran","Do IT Now", "EESSI: Addressing HPC Reproducibility Hurdles Through a Unified Software Stack"],
     ],
     urls = [
         "https://www.mcs.anl.gov/~keahey/",
@@ -81,7 +81,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 | 09:40 - 09:55 | *"Layered Reproducibility for High-Performance Computing Applications: The Feel++ and Ktirio Urban Buildings Case Study"* <br>-- J. Cladella, V. Chabannes, C. Prud'homme|
 | 09:55 - 10:10 | *"iReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems"* <br>-- I. Benlamari |
 | 10:10 - 10:25 | *"Standardising HPC Workflows for Sustainable Reproducibility: The JUBE Configuration Artefact Approach"* <br>-- J-O Mirus, F. S. M. Guimaraes, A. Sankaran, M. G. Barrios Sazo, C. Himmels, T. Breuer |
-| 10:25 - 11:00 | Invited Talk : **Helena Vela Beltran**      |
+| 10:25 - 11:00 | Invited Talk : **Helena Vela Beltran** -- *"EESSI: Addressing HPC Reproducibility Hurdles Through a Unified Software Stack"*<br> <br> Reproducibility is a cornerstone of trustworthy scientific progress, yet the high-performance computing (HPC) community frequently faces severe reproducibility challenges driven by complex software stacks, rapidly evolving hardware, and a historic lack of standardized deployment tools. To address these technical and methodological hurdles, this session introduces the European Environment for Scientific Software Installation (EESSI), a collaborative initiative designed to streamline how scientific software is deployed, shared, and reproduced across diverse infrastructures, including HPC clusters, cloud platforms, and local workstations. By providing a fully pre-built, module-based, and automated software environment, EESSI eliminates the inconsistencies often found across different platforms, offering a practical tool that helps researchers seamlessly package and replicate their computational environments.     |
 | 11:00 - 11:30 | **ISC Coffee Break**              |
 | 11:30 - 11:45 | *"Nix to the Rescue for a Reproducible HPC-AI Software Stack"* <br>-- W. Du, J-M. Gratien, R. Gayno, B. Raffin|
 | 11:45 - 12:00 | *"Some Lessons learnt on FPM promises with NixOS-Compose"* <br>-- A. Salmane, Y. Sun, H. Brunie, O. Richard|
