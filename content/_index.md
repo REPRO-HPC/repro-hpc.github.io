@@ -77,7 +77,12 @@ The topics of interest of the workshop include, but are not limited to, the foll
 | Time (CET)    | Event                             |
 | ------------- | --------------------------------- |
 | 09:00 - 09:05 | Welcome and Introductions         |
-| 09:05 - 09:40 | Invited Talk : **Kate Keahey**      |
+| 09:05 - 09:40 | Invited Talk : **Kate Keahey** -- *"Practical Reproducibility: How AI Can Help Make You a Better Scientist"*<br><br> Reproducibility is increasingly fundamental to scientific discourse as a means to promote trust in scientific results. There is however another compelling application of reproducibility: enabling new discoveries and new science through direct experimentation with existing results. 
+I argue that using this practical application reproducibility as a mainstream method of scientific exploration – enhancing the means of discourse that today primarily consists of writing and reading papers -- will not only enable more intuitive understanding of new results but also lead to greater scientific productivity. 
+
+However, the question arises whether this “practical reproducibility” is in fact practical in the sense that it can be implemented at sufficient scales and such that it is available to everyone. Hardware availability, lack of libraries of digital artifacts -- and, most importantly, the effort and attention required to frame and package computational experiments for reproducibility given inadequate ecosystem support for such endeavors – all pose serious challenges to this vision. 
+
+In this talk, I will describe the advantages and challenges of practical reproducibility and propose solutions that leverage recent technological advances, notably ways in which we can harness new resource configurations as well as new opportunities that became available with the advent of AI. I will also describe how we are applying those solutions in the context of Chameleon, a resource uniquely configured to support experimentation in computer science, that over the last 10 years of its existence served a community of over 14,000 users that collectively produced over 1,200 publications. |
 | 09:40 - 09:55 | *"Layered Reproducibility for High-Performance Computing Applications: The Feel++ and Ktirio Urban Buildings Case Study"* <br>-- J. Cladella, V. Chabannes, C. Prud'homme|
 | 09:55 - 10:10 | *"iReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems"* <br>-- I. Benlamari |
 | 10:10 - 10:25 | *"Standardising HPC Workflows for Sustainable Reproducibility: The JUBE Configuration Artefact Approach"* <br>-- J-O Mirus, F. S. M. Guimaraes, A. Sankaran, M. G. Barrios Sazo, C. Himmels, T. Breuer |
