@@ -54,7 +54,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 {{ grid(
     text = [
-        ["Kate Keahey","ANL / UChicago", "Title TBA"], 
+        ["Kate Keahey","ANL / UChicago", "Practical Reproducibility: How AI Can Help Make You a Better Scientist"], 
         ["Helena Vela Beltran","Do IT Now", "EESSI: Addressing HPC Reproducibility Hurdles Through a Unified Software Stack"],
     ],
     urls = [
