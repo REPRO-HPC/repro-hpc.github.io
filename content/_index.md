@@ -68,7 +68,7 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 # Program
 
-**Friday June 26th 2026**:
+**Friday June 26th 2026 -- Hall X8, 1st Floor**:
 
 <div class="program-table">
 
