@@ -99,12 +99,14 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 # Accepted Talks
 
+**Proceedings pre-prints** [**here**](/preprints.pdf)
+
 {{ table(
     data = "papers.csv", 
     columns = ["Title","Authors"],
-    button_names = ["Paper","Slides"], 
-    button_data_columns = [3,4], 
-    button_output_columns = [1,1]) }}
+    button_names = [], 
+    button_data_columns = [], 
+    button_output_columns = []) }}
 
 
 {{ new_block() }}
