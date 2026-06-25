@@ -2,5 +2,5 @@ Title,Authors,Paper_URL,Slides_URL
 Nix to the Rescue for a Reproducible HPC-AI Software Stack, Wenke Du; Jean-Marc Gratien; Raphael Gayno and Bruno Raffin,https://repro-hpc.github.io,https://repro-hpc.github.io
 Standardising HPC Workflows for Sustainable Reproducibility: The JUBE Configuration Artefact Approach, Jan-Oliver Mirus; Filipe Souza Mendes Guimaraes; Aravind Sankaran; Maria Guadalupe Barrios Sazo; Carina Himmels and Thomas Breuer,https://repro-hpc.github.io,https://repro-hpc.github.io
 Some Lessons learnt on FPM promises with NixOS-Compose, Amine Salmane; Yifei Sun; Hugo Brunie and Olivier Richard,https://repro-hpc.github.io,https://repro-hpc.github.io
-iReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems, Insaf Benlamari,https://repro-hpc.github.io,https://repro-hpc.github.io
+ReVal: A Hardware-Aware LLM Agent for Artifact Reproducibility and Evaluation in HPC Systems, Insaf Benlamari,https://repro-hpc.github.io,https://repro-hpc.github.io
 Layered Reproducibility for High-Performance Computing Applications: The Feel++ and Ktirio Urban Buildings Case Study, Javier Cladella; Vincent Chabannes and Christophe Prud'homme,https://repro-hpc.github.io,https://repro-hpc.github.io
