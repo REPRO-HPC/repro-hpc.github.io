@@ -88,12 +88,18 @@ The topics of interest of the workshop include, but are not limited to, the foll
 
 </div>
 
+
+![room](/room.jpg)
+
 ## Panelists
 
 - [Kate Keahey](https://www.mcs.anl.gov/~keahey/) ([Chameleon Cloud](https://www.chameleoncloud.org/))
 - [Helena Vela Beltran](https://www.linkedin.com/in/torri1) ([EESSI](https://www.eessi.io/))
 - [Hatem Ltaief](https://cemse.kaust.edu.sa/profiles/hatem-ltaief) (ISC26 Research Paper Chair) 
 - [Olivier Richard](https://datamove.imag.fr/olivier.richard/) ([SLICES-FR](https://slices-fr.eu/en/))
+
+
+![Panelists](/panel.jpg)
 
 {{ new_block() }}
 
